@@ -20,9 +20,11 @@ KESALAHAN:
 <p>https://drive.google.com/drive/u/1/my-drive</p>
 
 ###C. (SCREENSHOT)
-![Screenshot 1] (https://postimg.org/image/mpp0nf3c1/)
-![Screenshot 2] (https://postimg.org/image/gqbsffgnv/)
-![Screenshot 3] (https://postimg.org/image/m0s8bizbx/)
+![ppb](https://cloud.githubusercontent.com/assets/22117431/18632530/0ce3b8ee-7ea2-11e6-9936-cb4450333f24.PNG)
+<br>
+![ppb1](https://cloud.githubusercontent.com/assets/22117431/18632604/64b94ec6-7ea2-11e6-94a9-c75f7613b9e9.PNG)
+<br>
+![ppb2](https://cloud.githubusercontent.com/assets/22117431/18632624/86908e4c-7ea2-11e6-9480-293f7f22dac6.PNG)
 
 ###D. (DATA DIRI)
 -Nama     : Dayinta Indah Sari
